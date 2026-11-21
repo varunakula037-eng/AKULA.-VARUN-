@@ -1,0 +1,6 @@
+{
+  "name": "INTERVIEWX AI",
+  "description": "AI-powered mock interview preparation platform with role-specific question generation, Gemini answer evaluation, analytics, and PDF performance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
